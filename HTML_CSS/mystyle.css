@@ -1,0 +1,32 @@
+body {
+    padding: 30px 30px 30px 30px;
+
+background-image: url('ee.jpg');
+
+color:oldlace;
+text-align: center;
+font-family: fantasy;
+font-style: unset;
+font-size: 16px;
+}
+
+table {
+
+border: 1px hidden white;
+background: wheat;
+text-align: left;
+font-family: 'Times New Roman';
+font-style: normal;
+font-size: 15px;
+}
+
+
+
+a {
+
+    color:yellow;
+}
+
+b {
+    text-align: center;
+    }
